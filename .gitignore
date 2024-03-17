@@ -132,3 +132,7 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+# Exclude bin and obj directories
+**/bin/
+**/obj/
