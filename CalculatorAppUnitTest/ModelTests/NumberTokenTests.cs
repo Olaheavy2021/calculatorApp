@@ -1,6 +1,5 @@
 ﻿using CalculatorApp.Models;
 
-
 namespace CalculatorAppUnitTest.ModelTests
 {
     public class NumberTokenTests
