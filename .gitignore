@@ -429,3 +429,5 @@ site/**
 # Build results
 **/[Bb]in/
 **/[Oo]bj/
+/CalculatorAppUnitTest/obj/CalculatorAppUnitTest.csproj.nuget.dgspec.json
+/CalculatorAppUnitTest/obj/CalculatorAppUnitTest.csproj.nuget.g.props
