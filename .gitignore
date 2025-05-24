@@ -431,3 +431,5 @@ site/**
 **/[Oo]bj/
 /CalculatorAppUnitTest/obj/CalculatorAppUnitTest.csproj.nuget.dgspec.json
 /CalculatorAppUnitTest/obj/CalculatorAppUnitTest.csproj.nuget.g.props
+/CalculatorAppUnitTest/obj/Debug/net8.0/CalculatorAppUnitTest.assets.cache
+/CalculatorAppUnitTest/obj/Debug/net8.0/CalculatorAppUnitTest.csproj.FileListAbsolute.txt
